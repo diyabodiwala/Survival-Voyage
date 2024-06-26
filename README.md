@@ -1,6 +1,3 @@
-# Titanic-Passenger-Survival-Analysis
-
-
 <h2>Titanic Passanger Survival Analysis</h2>
 
 
